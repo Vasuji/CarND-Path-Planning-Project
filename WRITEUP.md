@@ -1,5 +1,7 @@
 # Path Planning Project
 
+![img](https://github.com/Vasuji/CarND-Path-Planning-Project/blob/master/car.png?raw=true)
+
 ## Introduction
 
 The goal of this project is to design and implement a path planner that drives a car in a smooth and safe trajectories on a simulated highway. Simulator sends telemetry info such as the speed and position of the car and sensor fusion information about other cars in the highway. The path planner uses these information and provides a safe, feasible and smooth trajectories which should not break rules such as (1) speed limit 50 mil/s, (2) accelration limit 10 m/s^2 and (3) jerk that should not be greater than 50 m/s^3.
